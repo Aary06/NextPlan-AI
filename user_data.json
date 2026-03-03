@@ -1,0 +1,44 @@
+{
+    "profile": {
+        "wake_time": "06:00",
+        "sleep_time": "23:00",
+        "fixed_commitments": [
+            {
+                "name": "DSA + Java",
+                "start": "07:00",
+                "end": "09:00"
+            },
+            {
+                "name": "college",
+                "start": "10:45",
+                "end": "17:00"
+            },
+            {
+                "name": "basketball",
+                "start": "17:15",
+                "end": "18:00"
+            },
+            {
+                "name": "college work",
+                "start": "18:30",
+                "end": "20:00"
+            },
+            {
+                "name": "python + NPTEL",
+                "start": "21:00",
+                "end": "22:45"
+            }
+        ],
+        "tasks": [
+            {
+                "name": "",
+                "weekly_target_hours": 7
+            }
+        ]
+    },
+    "history": {
+        "Monday": {
+            "06:00_": false
+        }
+    }
+}
